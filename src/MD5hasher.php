@@ -7,7 +7,7 @@
  * Time: 23:03
  */
 
-namespace laravist\hash;
+namespace Laravist\Hash;
 
 /**
  * Class MD5hasher
