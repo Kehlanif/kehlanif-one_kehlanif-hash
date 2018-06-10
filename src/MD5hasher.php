@@ -7,11 +7,11 @@
  * Time: 23:03
  */
 
-namespace Laravist\Hash;
+namespace KehlanifOne\KehlanifHash;
 
 /**
  * Class MD5hasher
- * @package laravist\hash
+ * @package laravist\KehlanifHash
  */
 class MD5hasher
 {

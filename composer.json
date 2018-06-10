@@ -1,6 +1,6 @@
 {
-    "name": "laravist/hash",
-    "description": "md5hash  package for laravel",
+    "name": "kehlanif-one/kehlanif-hash",
+    "description": "hash package for laravel",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Laravist\\Hash\\":"src/"
+            " KehlanifOne\\KehlanifHash\\":"src/"
         }
-    }
+    },
 }

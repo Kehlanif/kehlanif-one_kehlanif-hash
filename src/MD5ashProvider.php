@@ -1,8 +1,9 @@
 <?php
 
-namespace Laravist\Hash;
+namespace KehlanifOne\KehlanifHash;
 
 use Illuminate\Support\ServiceProvider;
+use Laravist\Hash\MD5hasher;
 
 class MD5ashProvider extends ServiceProvider
 {
