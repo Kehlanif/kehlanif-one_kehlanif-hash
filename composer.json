@@ -1,0 +1,19 @@
+{
+    "name": "laravist/hash",
+    "description": "md5hash  package for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kehlani",
+            "email": "kehlani_flower@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Laravist\\Hash\\":"src/"
+        }
+    }
+}
